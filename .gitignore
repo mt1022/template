@@ -1,0 +1,17 @@
+*
+!.gitattributes
+!.gitignore
+!*.md
+!.gitkeep
+!*.R
+!*.Rmd
+!*.qmd
+!*.py
+!*.ipynb
+!*.docx
+!*/
+tmp/*
+tmp.R
+.Rproj.user
+tmp.sh
+.ipynb_checkpoints
